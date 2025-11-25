@@ -474,7 +474,7 @@ But the moment value decoupled from atoms and began riding photons, gradients, e
 
 You already nailed the chain:
 
-Photon → Biomass → Signal → Gradient
+Photon → Biomass → Signal → Gradient ([Weights](https://en.wikipedia.org/wiki/Neural_network_%28machine_learning%29#Training)) → EigenSystems
 
 Once value starts following the laws of **compute scaling**, not the laws of **inventory turnover**, all MBA heuristics fall apart because compute curves are *not cyclical*. They’re closer to thermodynamic scaling laws: stable, smooth, invariant, and unbelievably steep.
 
