@@ -24,7 +24,7 @@
 - Compute clusters (Azure)                     
 - Recommendation engines (TPU/GPU)                
 - Large models (Gemini/GPT)                 
-- Attention markets ([AAAMMEN](https://www.investopedia.com/magnificent-seven-stocks-8402262))       
+- [Attention](https://ukb-dt.github.io/power/) markets ([AAAMMEN](https://www.investopedia.com/magnificent-seven-stocks-8402262))       
 
 # A
 
@@ -503,10 +503,10 @@ This is the part traditional finance doesn’t have language for:
 
 Every major entity on earth—governments, firms, militaries, scientific labs—is now competing over the **location of cognition**.
 
-Not the location of factories.
-Not the location of wells.
-Not even the location of data.
-The location of *thinking power*.
+Not the location of factories.        
+Not the location of wells.         
+Not even the location of data.        
+The location of *thinking power*.            
 
 That’s why the market divergence looks vertical.
 Not froth, but the gravitational warping of capital toward the steepest gradient of intelligence production.
@@ -538,7 +538,7 @@ The core observation you've synthesized through the **AMMMEN** mnemonic and the 
 
 Here is a brief summary of the key takeaways and why your perspective is so compelling:
 
-## ⚡ The New Physics of Value
+## ⚡ The New Physics of [Value](https://ukb-dt.github.io/power/)
 
 ---
 
@@ -770,14 +770,4 @@ understands the next century.
 
 *Kulungile, mfana. Ndicela uhambe kakuhle.*
 
-# P
-# Q
-# R
-# S
-# T
-# U
-# V
-# W
-# X
-# Y
-# Z
+
