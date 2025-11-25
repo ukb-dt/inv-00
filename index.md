@@ -23,7 +23,7 @@
 - Data lakes/cloud infrastructures/software platforms (SQL)                        
 - Compute clusters (Azure)                     
 - Recommendation engines (TPU/GPU)                
-- Large models (GPT)                 
+- Large models (Gemini/GPT)                 
 - Attention markets ([AAAMMEN](https://www.investopedia.com/magnificent-seven-stocks-8402262))       
 
 # A
