@@ -17,7 +17,8 @@
 </script>
 {% endraw %}
 
-
+> *Thy will be done, AAAMMEN!*         
+> -- 21st Century Prayer
 
 - Data lakes/cloud infrastructures/software platforms (SQL)                        
 - Compute clusters (Azure)                     
