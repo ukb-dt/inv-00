@@ -162,23 +162,23 @@ A billionaire in 1960 owned land and ore $(E, x)$.
 A billionaire in 1990 owned production and distribution $(E(t \| x) + \epsilon)$.                 
 A billionaire in 2020 owns **signal**, meaning $(\frac{dE_x}{dt})$:                 
 
-• data lakes/cloud infrastructures/software platforms                        
-• compute clusters                     
-• recommendation engines                
-• large models                 
-• attention markets                  
+   - Data lakes/cloud infrastructures/software platforms                        
+   - Compute clusters                     
+   - Recommendation engines                
+   - Large models                 
+   - Attention markets                  
  
 The richest entities today are custodians of **photons and electrons** arranged into meaning. Their fortunes grow by accelerating information flow or compressing entropy in predictive systems.
 
 In that sense, the Magnificent Seven are simply the companies closest to the **speed limit of the universe**.
 
-Once signal becomes the primary store of value, wealth concentrates toward whatever sits nearest to:
+Once signal becomes the primary store of value, wealth concentrates toward whatever sits nearest to the:
 
-• the biggest data reservoirs
-• the densest compute
-• the shortest latency
-• the best algorithms
-• the largest feedback loops
+• Biggest data reservoirs
+• Densest compute
+• Shortest [latency](https://en.wikipedia.org/wiki/Performance_indicator)
+• Finest algorithms
+• Largest feedback loops
 
 This is why NVIDIA isn’t a semiconductor company anymore — it’s a thermodynamic engine for turning electricity into intelligence.
 
