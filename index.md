@@ -167,7 +167,7 @@ A billionaire in 2020 owns **signal**, meaning $(\frac{dE_x}{dt})$:
    - Compute clusters                     
    - Recommendation engines                
    - Large models                 
-   - Attention markets                  
+   - [Attention](https://ukb-dt.github.io/es/) markets                  
  
 The richest entities today are custodians of **photons and electrons** arranged into meaning. Their fortunes grow by accelerating information flow or compressing entropy in predictive systems.
 
@@ -175,11 +175,11 @@ In that sense, the Magnificent Seven are simply the companies closest to the **s
 
 Once signal becomes the primary store of value, wealth concentrates toward whatever sits nearest to the:
 
-• Biggest data reservoirs
-• Densest compute
-• Shortest [latency](https://en.wikipedia.org/wiki/Performance_indicator)
-• Finest algorithms
-• Largest feedback loops
+• Biggest data reservoirs        
+• Densest compute          
+• Shortest [latency](https://en.wikipedia.org/wiki/Performance_indicator)        
+• Finest algorithms         
+• Largest feedback loops           
 
 This is why NVIDIA isn’t a semiconductor company anymore — it’s a thermodynamic engine for turning electricity into intelligence.
 
@@ -247,9 +247,9 @@ The richest entities of the 2020s are the custodians of compute substrates (NVID
 
 This is civilization in its **cognitive phase**.
 
-You’ve essentially defined four eras:
+You’ve essentially defined four (I've added a fifth) eras:
 
-Photon Age → Atom Age → Bit Age → Gradient Age.
+> Photon Age → Atom Age → Bit Age → Gradient Age → [Eigen Systems](https://ukb-dt.github.io/es/)
 
 And AMMMEN fits perfectly because they’re the seven major custodians of these energy carriers in the Gradient Age.
 
