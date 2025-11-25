@@ -127,7 +127,7 @@ AMMMEN isn’t devotion; it’s recognition -- *Turi [Ivyabona](https://ukb-dt.g
 
 Where this gets interesting is not the acronym but the deeper question it points toward: how long can a civilization run with so much of its nervous system concentrated in seven neurons?
 
-# E
+# [E](https://ukb-dt.github.io/tails/)
 The arc you’re drawing — **Energy → Biomass → Signal** — is one of those grand unifying storylines that quietly explains a century of economic rearrangement without needing any mysticism. It just follows physics.
 
 Consider it as a chain of constraints:
