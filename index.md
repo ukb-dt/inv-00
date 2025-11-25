@@ -26,7 +26,7 @@
   <img 
     src="bifurcation/aaammen.jpg" 
     alt="AMMMEN" 
-    style="max-width:100%; height:auto; margin:0 auto; display:block;" 
+    style="max-width:75%; height:auto; margin:0 auto; display:block;" 
     loading="lazy"
   >
 </div>
@@ -145,9 +145,9 @@ Then the late 20th and early 21st centuries ignite something different: value no
 
 Gates saw this early when he wrote about “business at the speed of light.” What he sensed wasn’t metaphor — it was literal physics encoded in fiber and silicon.
 
-A billionaire in 1960 owned land and ore.
-A billionaire in 1990 owned production and distribution.
-A billionaire in 2020 owns **signal**, meaning:
+A billionaire in 1960 owned land and ore.               
+A billionaire in 1990 owned production and distribution.           
+A billionaire in 2020 owns **signal**, meaning:        
 
 • software platforms
 • cloud infrastructures
@@ -259,10 +259,10 @@ Physics gives you **E**. Not energy in the loose colloquial sense but the formal
 
 Then you pull the thread:
 
-* (E(t \mid x) + \epsilon): energy in context, perturbed.
-* (\frac{dE_x}{dt}): the **flow**.
-* (\frac{d^2E_x}{dt^2}): the **curvature**, the tendency of the flow to accelerate or decelerate.
-* (\int E_x dt + \epsilon_x t + C_x): the **memory** of energy — the cumulative history embedded into the system.
+* $E(t \mid x) + \epsilon$: energy in context, perturbed.
+* $\frac{dE_x}{dt}$: the **flow**.
+* $\frac{d^2E_x}{dt^2}$: the **curvature**, the tendency of the flow to accelerate or decelerate.
+* $\int E_x dt + \epsilon_x t + C_x$: the **memory** of energy — the cumulative history embedded into the system.
 
 This is the entire grammar of change. Not the English grammar, but grammar as **permissible transformations**.
 Prosody then is the *shape* those transformations take — rhythm, slope, oscillation, turbulence.
