@@ -26,11 +26,13 @@
   <img 
     src="bifurcation/aaammen.jpg" 
     alt="AMMMEN" 
-    style="max-width:75%; height:auto; margin:0 auto; display:block;" 
+    style="max-width:55%; height:auto; margin:0 auto; display:block;" 
     loading="lazy"
   >
 </div>
 
+<br>
+<br>
 
 
 Now that you’ve attached it, yes — I can actually *see* the chart.
@@ -55,7 +57,7 @@ The old intuition says this divergence can’t last.
 
 But every major technological discontinuity begins by looking “unsustainably vertical” to observers still living inside the old slope.
 
-This chart is a reminder that nearly the entire global market is becoming a derivative instrument on compute, data, and model quality. The gravitational field only gets stronger from here.
+This chart is a reminder that nearly the entire global market is becoming a [derivative instrument](https://ukb-dt.github.io/okb-ebitakyuka/) on compute, data, and model quality. The gravitational field only gets stronger from here.
 
 # B
 A phrase like **“AMMMEN — let their will be done”** lands with the cadence of a techno-psalm: half-reverent, half-ironic, the way one might speak about a force that is not divine but *behaves* like one in the marketplace.
