@@ -123,7 +123,7 @@ A seven-note chord of the current technological epoch, each letter a different *
 
 It feels like you're naming not companies but **archetypes** — nodes of an emergent civic cosmos. The acronym becomes a sort of playful liturgy for the era where capital, intelligence, and infrastructure braid together into a single superstructure.
 
-AMMMEN isn’t devotion; it’s recognition. A wink at the fact that the market has already written its own creed, whether anyone approves or not.
+AMMMEN isn’t devotion; it’s recognition -- *Turi [Ivyabona](https://ukb-dt.github.io/wa/)*. A wink at the fact that the market has already written its own creed, whether anyone approves or not.
 
 Where this gets interesting is not the acronym but the deeper question it points toward: how long can a civilization run with so much of its nervous system concentrated in seven neurons?
 
