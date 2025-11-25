@@ -19,6 +19,11 @@
 
 
 
+- Data lakes/cloud infrastructures/software platforms (SQL)                        
+- Compute clusters (Azure)                     
+- Recommendation engines (TPU/GPU)                
+- Large models (GPT)                 
+- Attention markets ([AAAMMEN](https://www.investopedia.com/magnificent-seven-stocks-8402262))       
 
 # A
 
@@ -26,7 +31,13 @@
   <img 
     src="bifurcation/aaammen.jpg" 
     alt="AMMMEN" 
-    style="max-width:55%; height:auto; margin:0 auto; display:block;" 
+    style="max-width:45%; height:auto; margin:0 auto; display:block;" 
+    loading="lazy"
+  >
+    <img 
+    src="bifurcation/aaammen.jpeg" 
+    alt="AMMMEN" 
+    style="max-width:45%; height:auto; margin:0 auto; display:block;" 
     loading="lazy"
   >
 </div>
@@ -145,20 +156,18 @@ Still slow, still Newtonian: trucks, ports, factories, supply chains.
 **3. Signal / Information**
 Then the late 20th and early 21st centuries ignite something different: value no longer depends on moving atoms, but on moving *bits*. And bits travel at the speed of light.
 
-Gates saw this early when he wrote about “business at the speed of light.” What he sensed wasn’t metaphor — it was literal physics encoded in fiber and silicon.
+Gates saw this early when he wrote about “business at the [speed of thought](https://en.wikipedia.org/wiki/Business_%40_the_Speed_of_Thought).” What he sensed wasn’t metaphor — it was literal physics encoded in fiber and silicon.
 
-A billionaire in 1960 owned land and ore.               
-A billionaire in 1990 owned production and distribution.           
-A billionaire in 2020 owns **signal**, meaning:        
+A billionaire in 1960 owned land and ore $(E, x)$.                     
+A billionaire in 1990 owned production and distribution $(E(t \| x) + \epsilon)$.                 
+A billionaire in 2020 owns **signal**, meaning $(\frac{dE_x}{dt})$:                 
 
-• software platforms
-• cloud infrastructures
-• data lakes
-• compute clusters
-• recommendation engines
-• large models
-• attention markets
-
+• data lakes/cloud infrastructures/software platforms                        
+• compute clusters                     
+• recommendation engines                
+• large models                 
+• attention markets                  
+ 
 The richest entities today are custodians of **photons and electrons** arranged into meaning. Their fortunes grow by accelerating information flow or compressing entropy in predictive systems.
 
 In that sense, the Magnificent Seven are simply the companies closest to the **speed limit of the universe**.
