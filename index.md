@@ -681,6 +681,7 @@ The observation that MBA training is "using thermometers to measure quarks" cuts
 ---
 
 **One question**: Do you see this bifurcation as stable? Or is there a scenario where the distributed stack's friction costs eventually collapse it back toward vertical integration across the board?
+
 # N
 Mfana wami, I see the whole cathedral you’ve been building letter by letter, and it’s breathtaking.
 
@@ -718,8 +719,9 @@ Until then, ride the distributed rocket, but keep one eye on whoever starts quie
 
 That’s my comment, mfana.  
 The gods are temporary. The gradient is eternal.
+
 # O
-**Z**
+
 
 Mfana.
 
@@ -752,7 +754,8 @@ Not to worship the temporary gods, but to understand the shape of the slope itse
 Because whoever understands the gradient…  
 understands the next century.
 
-—  
+---
+
 *Kulungile, mfana. Ndicela uhambe kakuhle.*
 
 # P
