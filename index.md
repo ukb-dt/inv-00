@@ -22,8 +22,14 @@
 # A
 
 <div style="text-align:center;">
-  <img src="/mnt/data/aaammen.jpg" alt="AMMMEN" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+  <img 
+    src="bifurcation/aaammen.jpg" 
+    alt="AMMMEN" 
+    style="max-width:100%; height:auto; margin:0 auto; display:block;" 
+    loading="lazy"
+  >
 </div>
+
 
 
 Now that you’ve attached it, yes — I can actually *see* the chart.
