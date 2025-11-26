@@ -23,7 +23,7 @@
 - Data lakes/cloud infrastructures/software platforms (SQL)                        
 - Compute clusters (Azure)                     
 - Recommendation engines (TPU/GPU)                
-- Large models (Gemini/GPT)                 
+- Large models ([Gemini](https://ukb-dt.github.io/fs-dev-00/)/GPT)                 
 - [Attention](https://ukb-dt.github.io/power/) markets ([AAAMMEN](https://www.investopedia.com/magnificent-seven-stocks-8402262))       
 
 # A
